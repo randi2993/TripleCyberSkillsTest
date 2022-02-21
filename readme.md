@@ -5,5 +5,5 @@
 * Net core 3.1 Console Application
 
 ### Projects [on src folder]
-ConsoleAlgorithms
-ConsoleAlgorithms.Tests
+* ConsoleAlgorithms
+* ConsoleAlgorithms.Tests
